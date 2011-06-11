@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/ld
+END
+configure.tgt.sed
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/ld/configure.tgt.sed
+END
+Makefile.in.sed
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/ld/Makefile.in.sed
+END

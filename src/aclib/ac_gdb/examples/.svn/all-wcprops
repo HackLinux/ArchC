@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_gdb/examples
+END
+sparcv8_gdb_funcs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_gdb/examples/sparcv8_gdb_funcs.cpp
+END
+mips1_gdb_funcs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_gdb/examples/mips1_gdb_funcs.cpp
+END

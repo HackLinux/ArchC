@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder
+END
+ac_decoder_rt.H
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder/ac_decoder_rt.H
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder/Makefile.am
+END
+ac_decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder/ac_decoder.c
+END
+ac_decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder/ac_decoder.h
+END
+ac_decoder_rt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/aclib/ac_decoder/ac_decoder_rt.cpp
+END

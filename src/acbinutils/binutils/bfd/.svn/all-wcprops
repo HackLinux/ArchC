@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd
+END
+bfd-in2.h.sed
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/bfd-in2.h.sed
+END
+elf32-xxxxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/elf32-xxxxx.c
+END
+targets.c.sed
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/targets.c.sed
+END
+archures.c.sed
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/archures.c.sed
+END
+share-xxxxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/share-xxxxx.c
+END
+config.bfd.sed
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/config.bfd.sed
+END
+configure.sed
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/configure.sed
+END
+Makefile.in.sed
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/Makefile.in.sed
+END
+cpu-xxxxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/src/acbinutils/binutils/bfd/cpu-xxxxx.c
+END

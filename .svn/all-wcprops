@@ -1,0 +1,93 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 24
+/svn/archc-prj/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/archc-prj/!svn/ver/770/archc/tags/archc-2.1
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/BUGS
+END
+applylicense.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/applylicense.sh
+END
+archc.conf.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/archc.conf.m4
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/configure.ac
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/INSTALL
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/ChangeLog
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/Doxyfile.in
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/Makefile.am
+END
+boot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/boot.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/README
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/COPYING.LIB
+END

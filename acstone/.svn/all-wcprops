@@ -1,0 +1,521 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone
+END
+111.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/111.if.c
+END
+044.sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/044.sub.c
+END
+026.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/026.cast.c
+END
+071.bool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/071.bool.c
+END
+115.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/115.if.c
+END
+075.bool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/075.bool.c
+END
+119.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/119.if.c
+END
+run_gdb_powerpc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_gdb_powerpc.sh
+END
+Makefile.archc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/Makefile.archc
+END
+124.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/124.loop.c
+END
+131.call.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/131.call.c
+END
+run_simulator_powerpc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_simulator_powerpc.sh
+END
+021.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/021.cast.c
+END
+032.add.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/032.add.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/Makefile
+END
+034.add.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/034.add.c
+END
+025.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/025.cast.c
+END
+112.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/112.if.c
+END
+051.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/051.mul.c
+END
+053.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/053.mul.c
+END
+116.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/116.if.c
+END
+074.bool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/074.bool.c
+END
+055.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/055.mul.c
+END
+057.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/057.mul.c
+END
+run_gdb_xscale.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_gdb_xscale.sh
+END
+run_gdb.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_gdb.sh
+END
+123.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/123.loop.c
+END
+134.call.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/134.call.c
+END
+000.main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/000.main.c
+END
+062.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/062.div.c
+END
+064.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/064.div.c
+END
+run_simulator.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_simulator.sh
+END
+066.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/066.div.c
+END
+041.sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/041.sub.c
+END
+068.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/068.div.c
+END
+024.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/024.cast.c
+END
+043.sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/043.sub.c
+END
+113.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/113.if.c
+END
+073.bool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/073.bool.c
+END
+117.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/117.if.c
+END
+check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/check.sh
+END
+122.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/122.loop.c
+END
+run_pc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_pc.sh
+END
+126.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/126.loop.c
+END
+133.call.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/133.call.c
+END
+141.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/141.array.c
+END
+142.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/142.array.c
+END
+143.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/143.array.c
+END
+144.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/144.array.c
+END
+011.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/011.const.c
+END
+145.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/145.array.c
+END
+012.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/012.const.c
+END
+146.array.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/146.array.c
+END
+013.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/013.const.c
+END
+014.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/014.const.c
+END
+015.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/015.const.c
+END
+031.add.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/031.add.c
+END
+run_simulator_xscale.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/run_simulator_xscale.sh
+END
+016.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/016.const.c
+END
+017.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/017.const.c
+END
+033.add.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/033.add.c
+END
+023.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/023.cast.c
+END
+018.const.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/018.const.c
+END
+027.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/027.cast.c
+END
+114.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/114.if.c
+END
+072.bool.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/072.bool.c
+END
+052.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/052.mul.c
+END
+054.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/054.mul.c
+END
+118.if.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/118.if.c
+END
+056.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/056.mul.c
+END
+058.mul.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/058.mul.c
+END
+121.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/121.loop.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/README
+END
+125.loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/125.loop.c
+END
+132.call.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/132.call.c
+END
+081.shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/081.shift.c
+END
+082.shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/082.shift.c
+END
+083.shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/083.shift.c
+END
+084.shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/084.shift.c
+END
+061.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/061.div.c
+END
+085.shift.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/085.shift.c
+END
+063.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/063.div.c
+END
+065.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/065.div.c
+END
+022.cast.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/022.cast.c
+END
+067.div.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/067.div.c
+END
+042.sub.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/archc-prj/!svn/ver/760/archc/tags/archc-2.1/acstone/042.sub.c
+END
